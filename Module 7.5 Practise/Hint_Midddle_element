@@ -1,0 +1,10 @@
+Phitron Team12:47 PM
+sz%2!=0
+for (i=0; i<sz/2; i++) 
+{ tmp = tmp->next}
+cout<tmp ->val
+
+else
+for( i=0 ; i<(sz/2)-1; i++) 
+{ tmp = tmp->next;}
+cout<<tmp->val<<" "<<tmp->next->val;
